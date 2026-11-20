@@ -1,0 +1,32 @@
+{
+  "25_Portfolios_ME_Prior_12_2": {
+    "url": "https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/ftp/25_Portfolios_ME_Prior_12_2_CSV.zip",
+    "sha256": "771c7ffd401b4b1b1278690832ea6f0634cfec25055d6ea746ad96f80ec66061",
+    "vintage": "This file was created using the 202609 CRSP database."
+  },
+  "25_Portfolios_ME_Prior_1_0": {
+    "url": "https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/ftp/25_Portfolios_ME_Prior_1_0_CSV.zip",
+    "sha256": "1c4070b54f42c3e4cf58420f6f7e460c08de886e32574ddb71c17bfa2c606260",
+    "vintage": "This file was created using the 202609 CRSP database."
+  },
+  "25_Portfolios_ME_VAR_5x5": {
+    "url": "https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/ftp/25_Portfolios_ME_VAR_5x5_CSV.zip",
+    "sha256": "5aa05cbb2e17da21b7770ea819ba38b79181eb11b4c735abfe23d64ee4d57ba0",
+    "vintage": "This file was created using the 202609 CRSP database."
+  },
+  "F-F_Momentum_Factor": {
+    "url": "https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/ftp/F-F_Momentum_Factor_CSV.zip",
+    "sha256": "27ed60e5b2caa9ea334a261cddfa864a9926f6bf45e9677c95dfd835c5abb315",
+    "vintage": "This file was created using the 202609 CRSP database.  It"
+  },
+  "F-F_ST_Reversal_Factor": {
+    "url": "https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/ftp/F-F_ST_Reversal_Factor_CSV.zip",
+    "sha256": "7ddb68bbaa507ec0b298ceaecf99e719ef051367d93de3d1f89150e3fbb61740",
+    "vintage": "This file was created using the 202609 CRSP database.  It"
+  },
+  "F-F_Research_Data_Factors": {
+    "url": "https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/ftp/F-F_Research_Data_Factors_CSV.zip",
+    "sha256": "b03d39e4bb253dda0f14893db3b78e64b40b8d6549a0fc0fd4111dae84c98618",
+    "vintage": "This file was created using the 202609 CRSP database."
+  }
+}
